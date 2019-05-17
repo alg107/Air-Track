@@ -22,7 +22,7 @@ D Use this to determine the experimental wavelength of oscillation (i.e. period 
         D Angular frequencies
         D Propagation constants
         D Wavelength
-        * Phase velocity
+        D Phase velocity
         * Group velocity
     D Relevant graphs
 
