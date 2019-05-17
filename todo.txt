@@ -1,0 +1,31 @@
+Components of Air Track Report
+
+Introduction
+Analysis
+Discussion
+Conclusion
+
+## Analysis
+
+D Measure spring constant
+D Calculate theoretical normal mode frequencies
+D Verification of single car frequency
+D Find these normal modes and measure amplitudes and phase of each car
+D Make a sinusoidal fit to the amplitude of displacement as a function of distance along the air track
+D Use this to determine the experimental wavelength of oscillation (i.e. period sort of)
+* Measure damping forces and explain how these affect w *** Not done
+* Determine what happens if driving freq goes above highest normal mode
+
+- Present data in
+    - A table containing
+        D n
+        D Angular frequencies
+        D Propagation constants
+        D Wavelength
+        * Phase velocity
+        * Group velocity
+    D Relevant graphs
+
+
+MISC TODO:
+- Get length of track / distance between cars
